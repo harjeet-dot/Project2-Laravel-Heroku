@@ -20,7 +20,7 @@ class CreateBookingsTable extends Migration
             $table->string('endtime');
              $table->string('type');
             $table->foreignId('rooms_id')->constrained('rooms');
-            $table->foreignId('user_id')->constrained('user');
+            $table->foreignId('users_id')->constrained('users');
             $table->timestamps();
         });
     }
