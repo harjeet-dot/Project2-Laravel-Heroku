@@ -1,0 +1,33 @@
+[
+    {
+        "id": 22,
+        "date": "12/12/2021",
+        "starttime": "9.00",
+        "endtime": "12.00",
+        "type": "general",
+        "rooms_id":26,
+        "user_id":12
+    },
+    
+    {
+        "id": 23,
+        "date": "12/12/2021",
+        "starttime": "12.00",
+        "endtime": "14.00",
+        "type": "general",
+        "rooms_id":27,
+        "user_id":13
+
+    },
+    
+    {
+        "id": 24,
+        "date": "12/12/2021",
+        "starttime": "14.00",
+        "endtime": "16.00",
+        "type": "general",
+        "rooms_id":28,
+        "user_id":14
+
+    }
+]

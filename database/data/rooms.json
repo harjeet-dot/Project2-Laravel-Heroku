@@ -1,0 +1,26 @@
+[
+    {
+        "id": 13,
+        "room_num": "105",
+        "location": "level 2",
+        "capacity": "50",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 14,
+        "room_num": "106",
+        "location": "level 3",
+        "capacity": "25",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 15,
+        "room_num": "108",
+        "location": "level 8",
+        "capacity": "25",
+        "created_at": null,
+        "updated_at": null
+    }
+]
